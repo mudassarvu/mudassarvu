@@ -32,7 +32,16 @@ I build high-performance, secure, and scalable WordPress solutions. From bespoke
 
 ---
 
-### 📫 Connect With Me
+---
+
+### 💼 Featured Commercial Projects (at Code District)
+
+During my tenure as a Senior Developer at Code District, I engineered and contributed to multiple high-scale web projects, focusing on custom WordPress architecture and front-end performance:
+
+* **Enterprise E-Commerce Platforms:** Built high-converting, custom WooCommerce solutions integrated with complex ERP inventories, secure custom payment gateways, and optimized checkout funnels.
+* **Custom WordPress Themes & Frameworks:** Developed pixel-perfect, Gutenberg-compatible corporate themes from scratch, utilizing advanced PHP, ACF Pro, and modern asset bundling (Vite/Webpack).
+* **Performance Optimization Case Studies:** Revamped legacy WordPress codebases for international clients, reducing page load times by up to 60% and successfully hit 90+ Core Web Vitals scores.
+* **Headless WordPress Applications:** Collaborated on modern decoupled architectures, using WordPress as a secure REST API backend powering high-speed React.js front-ends.
 
 ### 📫 Connect With Me
 
